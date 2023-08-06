@@ -1,3 +1,6 @@
 # Пример для piter js
-npm i
-ts-node index.ts S
+### Установка зависимостей
+$ npm i
+
+### Запуск 
+$ npm run start
